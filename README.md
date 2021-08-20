@@ -1,4 +1,3 @@
 # Ready Coding Test
 
-Baekjoon
-use python
+Baekjoon, use python
