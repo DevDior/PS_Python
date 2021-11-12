@@ -1,5 +1,5 @@
 # 수 정렬하기 3
-# repeat: v
+# repeat:
 
 import sys
 
