@@ -1,6 +1,4 @@
 # 수 정렬하기 3
-# repeat:
-
 import sys
 
 N = int(sys.stdin.readline())
