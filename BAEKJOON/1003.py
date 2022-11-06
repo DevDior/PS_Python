@@ -21,4 +21,3 @@ for i in range(T):
                 past_answer = tmp
          
         print(answer[0], answer[1])
-    
