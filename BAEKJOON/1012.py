@@ -12,14 +12,42 @@ for _ in range(T):
     earthworm_count = 0
     
 ########## BFS ##########
-    queue = deque()
+    #queue = deque()
+    #
+    #while cabbage:
+    #    earthworm_count += 1
+    #    queue.append(cabbage.pop(0))
+    #    
+    #    while queue:
+    #        target = queue.popleft()
+    #        tx, ty = target[0], target[1]
+    #        
+    #        for i in range(4):
+    #            x = tx + dx[i]
+    #            y = ty + dy[i]
+    #            
+    #            if x < 0 or x >= M or y < 0 or y >= N:
+    #                continue
+    #        
+    #            else:
+    #                if [x, y] in cabbage:
+    #                    queue.append([x, y])
+    #                    cabbage.remove([x, y])
+    #                    
+    #                else:
+    #                    continue
+    #    
+    #print(earthworm_count)
+
+# DFS
+    stack= []
     
     while cabbage:
         earthworm_count += 1
-        queue.append(cabbage.pop(0))
+        stack.append(cabbage.pop(0))
         
-        while queue:
-            target = queue.popleft()
+        while stack:
+            target = stack.pop(-1)
             tx, ty = target[0], target[1]
             
             for i in range(4):
@@ -28,15 +56,13 @@ for _ in range(T):
                 
                 if x < 0 or x >= M or y < 0 or y >= N:
                     continue
-            
+                
                 else:
                     if [x, y] in cabbage:
-                        queue.append([x, y])
+                        stack.append([x, y])
                         cabbage.remove([x, y])
                         
                     else:
                         continue
-        
+                    
     print(earthworm_count)
-
-# DFS
