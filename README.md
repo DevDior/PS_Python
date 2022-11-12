@@ -1,3 +1,1 @@
-# Ready Coding Test
-
-Baekjoon, use python
+# ⚔ BOJ With Python
