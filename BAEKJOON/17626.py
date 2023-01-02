@@ -2,6 +2,7 @@
 import sys
 import math
 
+# DP
 n = int(sys.stdin.readline())
 dp = [0, 1]
 
