@@ -11,11 +11,10 @@ def bfs(graph, start):
     queue.append(start)
     
     while queue:
-        a = queue.popleft()
-        
-        for i in graph[a]:
+        target = queue.popleft()
+        for i in graph[target]:
             if not i in visited:
-                count[i] = count[a] + 1
+                count[i] = count[target] + 1
                 visited.append(i)
                 queue.append(i)    
         
