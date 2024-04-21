@@ -1,2 +1,2 @@
-# ⚔ BOJ With Python
+# ⚔ Problem Solving With Python
 기약없는 정리 대기...
