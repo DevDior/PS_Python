@@ -1,7 +1,7 @@
 # 탐색을 위한 자료구조 및 지식
 - 스택: 선입후출, First In Last Out(FILO), python list 사용
 - 큐: 선입선출, First In First Out(FIFO), python deque 사용
-- 재귀 함수: 코드 간걸( 점화식을 코드로 옮기기 때문)
+- 재귀 함수: 코드 간걸(점화식을 코드로 옮기기 때문)
 
 # 그래프의 2가지 방식 표현
 ## 인접 행렬
