@@ -1,4 +1,5 @@
-# 2739번 : 구구단
+# Clear
+# 구구단
 
 import sys
 

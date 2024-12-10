@@ -1,4 +1,6 @@
+# Clear
 # 종이의 개수
+
 import sys
 
 N = int(sys.stdin.readline())

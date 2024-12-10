@@ -1,3 +1,4 @@
+# V
 # 통계학
 
 import sys

@@ -1,4 +1,6 @@
+# Clear
 # 평균
+
 import sys
 
 N = int(sys.stdin.readline())

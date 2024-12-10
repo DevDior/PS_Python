@@ -1,3 +1,4 @@
+# Clear
 # 셀프 넘버
 
 import sys

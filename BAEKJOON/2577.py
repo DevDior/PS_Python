@@ -1,3 +1,6 @@
+# Clear
+# 숫자의 개수
+
 from sys import stdin
 
 A = int(stdin.readline())

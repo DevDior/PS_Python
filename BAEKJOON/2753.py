@@ -1,3 +1,6 @@
+# Clear
+# 윤년
+
 import sys
 
 year = int(sys.stdin.readline())

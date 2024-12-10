@@ -1,3 +1,6 @@
+# Clear
+# 별 찍기 - 2
+
 import sys
 
 N = int(sys.stdin.readline())

@@ -1,4 +1,5 @@
-# 1000번 : A+B
+# Clear
+# A+B
 
 from sys import stdin
 

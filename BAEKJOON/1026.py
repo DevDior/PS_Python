@@ -1,4 +1,5 @@
-# 보물, 그리디
+# Clear
+# 보물
 
 import sys
 input = sys.stdin.readline

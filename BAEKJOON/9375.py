@@ -1,4 +1,6 @@
+# Clear
 # 패션왕 신해빈
+
 import sys
 
 T = int(sys.stdin.readline())

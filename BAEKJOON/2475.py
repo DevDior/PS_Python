@@ -1,3 +1,4 @@
+# Clear
 # 검증수
 
 import sys

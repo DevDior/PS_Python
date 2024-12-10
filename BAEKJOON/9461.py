@@ -1,4 +1,6 @@
+# Clear
 # 파도반 수열
+
 import sys
 
 T = int(sys.stdin.readline())

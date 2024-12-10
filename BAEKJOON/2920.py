@@ -1,3 +1,4 @@
+# Clear
 # 음계
 
 import sys

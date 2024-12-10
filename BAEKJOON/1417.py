@@ -1,4 +1,6 @@
+# Clear
 # 국회의원 선거
+
 import sys
 import heapq
 

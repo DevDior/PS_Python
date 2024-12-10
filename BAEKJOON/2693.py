@@ -1,3 +1,4 @@
+# Clear
 # N번째 큰 수
 
 import sys

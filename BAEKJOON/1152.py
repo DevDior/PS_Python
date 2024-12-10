@@ -1,3 +1,4 @@
+# Clear
 # 단어의 개수
 
 import sys

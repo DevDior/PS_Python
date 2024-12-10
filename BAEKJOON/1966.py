@@ -1,3 +1,4 @@
+# Clear
 # 프린터 큐
 
 import sys

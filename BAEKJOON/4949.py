@@ -1,3 +1,4 @@
+# Clear
 # 균형잡힌 세상
 
 import sys

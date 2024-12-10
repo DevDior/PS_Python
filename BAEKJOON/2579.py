@@ -1,4 +1,6 @@
+# Clear
 # 계단 오르기
+
 import sys
 
 #DP

@@ -1,4 +1,6 @@
+# V
 # 숨바꼭질
+
 from dis import dis
 import sys
 from collections import deque

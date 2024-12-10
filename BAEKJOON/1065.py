@@ -1,3 +1,4 @@
+# Clear
 # 한수
 
 import sys

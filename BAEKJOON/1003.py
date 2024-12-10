@@ -1,3 +1,4 @@
+# Clear
 # 피보나치 함수
 import sys
 

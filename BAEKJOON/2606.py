@@ -1,4 +1,6 @@
+# Clear
 # 바이러스
+
 from collections import deque
 import sys
 

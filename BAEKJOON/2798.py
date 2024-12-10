@@ -1,3 +1,4 @@
+# Clear
 # 블랙잭
 
 import sys

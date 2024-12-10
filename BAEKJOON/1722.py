@@ -1,4 +1,6 @@
+# V
 # 순열의 순서
+
 import sys, math
 from collections import deque
 

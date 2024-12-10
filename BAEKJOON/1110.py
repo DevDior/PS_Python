@@ -1,4 +1,5 @@
-# 1110번 : 더하기 사이클
+# Clear
+# 더하기 사이클
 
 from sys import stdin
 

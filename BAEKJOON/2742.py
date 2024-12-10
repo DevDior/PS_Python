@@ -1,3 +1,6 @@
+# Clear
+# 기찍 N
+
 import sys
 
 N = int(sys.stdin.readline())

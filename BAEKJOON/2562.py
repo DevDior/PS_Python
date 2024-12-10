@@ -1,3 +1,6 @@
+# Clear
+# 최댓값
+
 from sys import stdin
 
 max = int(stdin.readline())

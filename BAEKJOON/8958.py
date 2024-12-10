@@ -1,3 +1,4 @@
+# Clear
 # OX퀴즈
 
 import sys

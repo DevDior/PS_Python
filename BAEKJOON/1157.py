@@ -1,5 +1,6 @@
-# 단어 공부 can't solve
-# solve: v
+# V
+# 단어 공부
+
 import sys
 word = sys.stdin.readline().upper().rstrip()
 

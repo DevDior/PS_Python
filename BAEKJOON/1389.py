@@ -1,4 +1,6 @@
+# V
 # 케빈 베이컨의 6단계 법칙
+
 import sys
 from collections import deque
 

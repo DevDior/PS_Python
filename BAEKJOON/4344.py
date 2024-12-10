@@ -1,3 +1,4 @@
+# Clear
 # 평균은 넘겠지
 
 import sys

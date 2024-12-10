@@ -1,3 +1,4 @@
+# Clear
 # 스택 수열
 
 import sys

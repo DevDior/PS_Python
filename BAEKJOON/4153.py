@@ -1,4 +1,6 @@
+# Clear
 # 직삼각형
+
 import sys
 
 while(True):

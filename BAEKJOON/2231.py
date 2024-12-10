@@ -1,4 +1,5 @@
-# v
+# V
+# 분해합
 
 import sys
 

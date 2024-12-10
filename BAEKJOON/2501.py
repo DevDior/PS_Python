@@ -1,4 +1,6 @@
+# Clear
 # 약수 구하기
+
 import sys
 
 N, K = map(int, sys.stdin.readline().split())

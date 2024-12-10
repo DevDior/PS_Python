@@ -1,4 +1,5 @@
-#카드2
+# Clear
+# 카드2
 
 import sys
 

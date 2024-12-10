@@ -1,3 +1,4 @@
+# Clear
 # 단어 정렬
 
 import sys

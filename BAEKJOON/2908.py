@@ -1,4 +1,6 @@
+# Clear
 # 상수
+
 import sys
 
 nums = sys.stdin.readline().split()

@@ -1,4 +1,6 @@
+# Clear
 # 색종이 만들기
+
 import sys
 
 N = int(sys.stdin.readline())

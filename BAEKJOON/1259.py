@@ -1,3 +1,4 @@
+# Clear
 # 팰린드롬수
 
 import sys
