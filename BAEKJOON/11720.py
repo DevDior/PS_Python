@@ -1,3 +1,4 @@
+# Clear
 # 숫자의 합
 
 import sys

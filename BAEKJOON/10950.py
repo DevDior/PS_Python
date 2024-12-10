@@ -1,3 +1,6 @@
+# Clear
+# A+B - 3
+
 import sys
 
 T = int(sys.stdin.readline())

@@ -1,4 +1,6 @@
+# Clear
 # 구간 합 구하기 4
+
 import sys
 
 N, M = map(int, sys.stdin.readline().split())

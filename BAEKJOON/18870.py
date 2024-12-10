@@ -1,4 +1,6 @@
+# Clear
 # 좌표 압축
+
 import sys
 
 N = int(sys.stdin.readline())

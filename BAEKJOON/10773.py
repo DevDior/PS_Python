@@ -1,3 +1,4 @@
+# Clear
 # 제로
 
 import sys

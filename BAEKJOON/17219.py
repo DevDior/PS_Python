@@ -1,4 +1,6 @@
+# Clear
 # 비밀번호 찾기
+
 import sys
 
 N, M = map(int, sys.stdin.readline().split())

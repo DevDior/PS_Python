@@ -1,3 +1,4 @@
+# Clear
 # 좌표 정렬하기
 
 import sys

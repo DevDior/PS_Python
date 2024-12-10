@@ -1,3 +1,6 @@
+# Clear
+# 최소, 최대
+
 from sys import stdin
 
 N = int(stdin.readline())

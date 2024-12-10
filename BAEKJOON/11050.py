@@ -1,3 +1,6 @@
+# V
+# 이항 계수 1
+
 import sys
 
 N, K = map(int, sys.stdin.readline().split())

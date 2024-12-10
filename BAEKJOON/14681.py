@@ -1,3 +1,6 @@
+# Clear
+# 사분면 고르기
+
 import sys
 
 x = int(sys.stdin.readline())

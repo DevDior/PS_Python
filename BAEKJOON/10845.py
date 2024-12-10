@@ -1,4 +1,5 @@
-# v
+# V
+# 큐
 
 import sys
 

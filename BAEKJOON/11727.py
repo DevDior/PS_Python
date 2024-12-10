@@ -1,4 +1,6 @@
-# 2×n 타일링 2
+# Clear
+# 2×N 타일링 2
+
 import sys
 
 n = int(sys.stdin.readline())

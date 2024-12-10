@@ -1,4 +1,6 @@
+# Clear
 # 텀 프로젝트
+
 import sys
 sys.setrecursionlimit(10**9)
 input = sys.stdin.readline

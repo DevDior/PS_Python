@@ -1,4 +1,6 @@
-# ACM 호텔 can't solve
+# Clear
+# ACM 호텔
+
 import sys
 
 T = int(sys.stdin.readline())

@@ -1,4 +1,5 @@
-# 10952번 : A+B - 5
+# Clear
+# A+B - 5
 
 from sys import stdin
 

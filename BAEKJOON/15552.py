@@ -1,3 +1,6 @@
+# Clear
+# 빠른 A+B
+
 import sys
 
 T = int(sys.stdin.readline())

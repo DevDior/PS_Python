@@ -1,4 +1,6 @@
+# Clear
 # 동전0
+
 import sys
 
 answer = 0

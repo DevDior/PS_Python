@@ -1,3 +1,4 @@
+# Clear
 # 덱
 
 import sys

@@ -1,4 +1,6 @@
+# V
 # Four Squares
+
 import sys
 import math
 

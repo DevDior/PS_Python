@@ -1,3 +1,4 @@
+# Clear
 # 알파벳 찾기
 
 import sys
