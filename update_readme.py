@@ -65,9 +65,9 @@ def build_readme():
             table_content += f"| {problem_link:^12} | {title:^19} | {attempts:^15} | {status:^8} |\n"
 
     # 통계 데이터 추가
-    readme_content += f"- **Total Solved:** {clear_count}\n"
-    readme_content += f"- **Retry Needed:** {retry_count}\n"
-    readme_content += f"- **Unsolved Problems:** {unresolved_count}\n\n"
+    readme_content += f"- **해결 문제 수:** {clear_count}\n"
+    readme_content += f"- **다시 풀어야 하는 수:** {retry_count}\n"
+    readme_content += f"- **미해결 문제 수:** {unresolved_count}\n\n"
     readme_content += "---\n\n## Problem Solving Status\n\n"
     readme_content += table_content
 

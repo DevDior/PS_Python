@@ -12,9 +12,9 @@
 
 ## Problem Solving Statistics
 
-- **Total Solved:** 94
-- **Retry Needed:** 33
-- **Unsolved Problems:** 2
+- **해결 문제 수:** 94
+- **다시 풀어야 하는 수:** 33
+- **미해결 문제 수:** 2
 
 ---
 
