@@ -13,7 +13,7 @@
 ## Problem Solving Statistics
 
 - **해결 문제 수:** 94
-- **다시 풀어야 하는 수:** 33
+- **다시 풀어야 하는 수:** 34
 - **미해결 문제 수:** 2
 
 ---
@@ -148,6 +148,7 @@
 | [17626](https://www.acmicpc.net/problem/17626) |    Four Squares     |        V        |    ⏳     |
 | [18110](https://www.acmicpc.net/problem/18110) |      Solved.Ac      |        V        |    ⏳     |
 | [18111](https://www.acmicpc.net/problem/18111) |       마인크래프트        |        V        |    ⏳     |
+| [18222](https://www.acmicpc.net/problem/18222) |      투에-모스 문자열      |        V        |    ⏳     |
 | [18870](https://www.acmicpc.net/problem/18870) |        좌표 압축        |      Clear      |    ✅     |
 | [21736](https://www.acmicpc.net/problem/21736) |    헌내기는 친구가 필요해     |      Clear      |    ✅     |
 | [30804](https://www.acmicpc.net/problem/30804) |       과일 탕후루        |      Clear      |    ✅     |
