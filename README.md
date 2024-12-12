@@ -12,7 +12,7 @@
 
 ## Problem Solving Statistics
 
-- **해결 문제 수:** 94
+- **해결 문제 수:** 95
 - **다시 풀어야 하는 수:** 34
 - **미해결 문제 수:** 2
 
@@ -138,6 +138,7 @@
 | [11724](https://www.acmicpc.net/problem/11724) |      연결 요소의 개수      |      Clear      |    ✅     |
 | [11726](https://www.acmicpc.net/problem/11726) |       2xN 타일링       |      Clear      |    ✅     |
 | [11727](https://www.acmicpc.net/problem/11727) |      2×N 타일링 2      |      Clear      |    ✅     |
+| [11728](https://www.acmicpc.net/problem/11728) |       배열 합치기        |      Clear      |    ✅     |
 | [11866](https://www.acmicpc.net/problem/11866) |      요세푸스 문제 0      |      Clear      |    ✅     |
 | [14681](https://www.acmicpc.net/problem/14681) |       사분면 고르기       |      Clear      |    ✅     |
 | [14940](https://www.acmicpc.net/problem/14940) |       쉬운 최단거리       |      Clear      |    ✅     |
