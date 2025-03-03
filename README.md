@@ -12,7 +12,7 @@
 
 ## Problem Solving Statistics
 
-- **해결 문제 수:** 96
+- **해결 문제 수:** 97
 - **다시 풀어야 하는 수:** 34
 - **미해결 문제 수:** 2
 
@@ -154,3 +154,4 @@
 | [18870](https://www.acmicpc.net/problem/18870) |        좌표 압축        |      Clear      |    ✅     |
 | [21736](https://www.acmicpc.net/problem/21736) |    헌내기는 친구가 필요해     |      Clear      |    ✅     |
 | [30804](https://www.acmicpc.net/problem/30804) |       과일 탕후루        |      Clear      |    ✅     |
+| [31403](https://www.acmicpc.net/problem/31403) |      A + B - C      |      Clear      |    ✅     |
