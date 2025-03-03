@@ -12,7 +12,7 @@
 
 ## Problem Solving Statistics
 
-- **해결 문제 수:** 95
+- **해결 문제 수:** 96
 - **다시 풀어야 하는 수:** 34
 - **미해결 문제 수:** 2
 
@@ -31,6 +31,7 @@
 | [1065](https://www.acmicpc.net/problem/1065) |         한수          |      Clear      |    ✅     |
 | [1074](https://www.acmicpc.net/problem/1074) |          Z          |      Clear      |    ✅     |
 | [1085](https://www.acmicpc.net/problem/1085) |       직사각형 탈출       |      Clear      |    ✅     |
+| [1092](https://www.acmicpc.net/problem/1092) |          배          |      Clear      |    ✅     |
 | [1107](https://www.acmicpc.net/problem/1107) |         리모컨         |        X        |    ❌     |
 | [1110](https://www.acmicpc.net/problem/1110) |       더하기 사이클       |      Clear      |    ✅     |
 | [1148](https://www.acmicpc.net/problem/1148) |       단어 만들기        |        V        |    ⏳     |
