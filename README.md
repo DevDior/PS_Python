@@ -12,7 +12,7 @@
 
 ## Problem Solving Statistics
 
-- **해결 문제 수:** 97
+- **해결 문제 수:** 98
 - **다시 풀어야 하는 수:** 34
 - **미해결 문제 수:** 2
 
@@ -95,6 +95,7 @@
 | [4344](https://www.acmicpc.net/problem/4344) |       평균은 넘겠지       |      Clear      |    ✅     |
 | [4673](https://www.acmicpc.net/problem/4673) |        셀프 넘버        |      Clear      |    ✅     |
 | [4949](https://www.acmicpc.net/problem/4949) |       균형잡힌 세상       |      Clear      |    ✅     |
+| [5430](https://www.acmicpc.net/problem/5430) |         AC          |      Clear      |    ✅     |
 | [7568](https://www.acmicpc.net/problem/7568) |         덩치          |        V        |    ⏳     |
 | [7576](https://www.acmicpc.net/problem/7576) |         토마토         |        V        |    ⏳     |
 | [8393](https://www.acmicpc.net/problem/8393) |          합          |      Clear      |    ✅     |
