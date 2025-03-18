@@ -13,7 +13,7 @@
 ## Problem Solving Statistics
 
 - **해결 문제 수:** 98
-- **다시 풀어야 하는 수:** 36
+- **다시 풀어야 하는 수:** 37
 - **미해결 문제 수:** 2
 
 ---
@@ -97,6 +97,7 @@
 | [4949](https://www.acmicpc.net/problem/4949) |       균형잡힌 세상       |      Clear      |    ✅     |
 | [5430](https://www.acmicpc.net/problem/5430) |         AC          |      Clear      |    ✅     |
 | [5525](https://www.acmicpc.net/problem/5525) |        IOIOI        |        V        |    ⏳     |
+| [6064](https://www.acmicpc.net/problem/6064) |        카잉 달력        |        V        |    ⏳     |
 | [7568](https://www.acmicpc.net/problem/7568) |         덩치          |        V        |    ⏳     |
 | [7569](https://www.acmicpc.net/problem/7569) |         토마토         |        V        |    ⏳     |
 | [7576](https://www.acmicpc.net/problem/7576) |         토마토         |        V        |    ⏳     |
