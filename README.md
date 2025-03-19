@@ -13,7 +13,7 @@
 ## Problem Solving Statistics
 
 - **해결 문제 수:** 98
-- **다시 풀어야 하는 수:** 37
+- **다시 풀어야 하는 수:** 38
 - **미해결 문제 수:** 2
 
 ---
@@ -149,6 +149,7 @@
 | [14940](https://www.acmicpc.net/problem/14940) |       쉬운 최단거리       |      Clear      |    ✅     |
 | [15552](https://www.acmicpc.net/problem/15552) |       빠른 A+B        |      Clear      |    ✅     |
 | [15596](https://www.acmicpc.net/problem/15596) |      정수 N개의 합       |      Clear      |    ✅     |
+| [15649](https://www.acmicpc.net/problem/15649) |       N과 M(1)       |        V        |    ⏳     |
 | [15829](https://www.acmicpc.net/problem/15829) |       Hashing       |        V        |    ⏳     |
 | [17219](https://www.acmicpc.net/problem/17219) |       비밀번호 찾기       |      Clear      |    ✅     |
 | [17626](https://www.acmicpc.net/problem/17626) |    Four Squares     |        V        |    ⏳     |
