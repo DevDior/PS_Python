@@ -13,7 +13,7 @@
 ## Problem Solving Statistics
 
 - **해결 문제 수:** 98
-- **다시 풀어야 하는 수:** 38
+- **다시 풀어야 하는 수:** 39
 - **미해결 문제 수:** 2
 
 ---
@@ -101,6 +101,7 @@
 | [7568](https://www.acmicpc.net/problem/7568) |         덩치          |        V        |    ⏳     |
 | [7569](https://www.acmicpc.net/problem/7569) |         토마토         |        V        |    ⏳     |
 | [7576](https://www.acmicpc.net/problem/7576) |         토마토         |        V        |    ⏳     |
+| [7662](https://www.acmicpc.net/problem/7662) |      이중 우선순위 큐      |        V        |    ⏳     |
 | [8393](https://www.acmicpc.net/problem/8393) |          합          |      Clear      |    ✅     |
 | [8958](https://www.acmicpc.net/problem/8958) |        OX퀴즈         |      Clear      |    ✅     |
 | [9012](https://www.acmicpc.net/problem/9012) |         괄호          |      Clear      |    ✅     |
