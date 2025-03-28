@@ -12,7 +12,7 @@
 
 ## Problem Solving Statistics
 
-- **해결 문제 수:** 98
+- **해결 문제 수:** 100
 - **다시 풀어야 하는 수:** 39
 - **미해결 문제 수:** 2
 
@@ -105,10 +105,12 @@
 | [8393](https://www.acmicpc.net/problem/8393) |          합          |      Clear      |    ✅     |
 | [8958](https://www.acmicpc.net/problem/8958) |        OX퀴즈         |      Clear      |    ✅     |
 | [9012](https://www.acmicpc.net/problem/9012) |         괄호          |      Clear      |    ✅     |
+| [9019](https://www.acmicpc.net/problem/9019) |        DSLR         |      Clear      |    ✅     |
 | [9095](https://www.acmicpc.net/problem/9095) |     1, 2, 3 더하기     |        V        |    ⏳     |
 | [9375](https://www.acmicpc.net/problem/9375) |       패션왕 신해빈       |      Clear      |    ✅     |
 | [9461](https://www.acmicpc.net/problem/9461) |       파도반 수열        |      Clear      |    ✅     |
 | [9466](https://www.acmicpc.net/problem/9466) |       텀 프로젝트        |      Clear      |    ✅     |
+| [10026](https://www.acmicpc.net/problem/10026) |        적록색약         |      Clear      |    ✅     |
 | [10172](https://www.acmicpc.net/problem/10172) |          개          |      Clear      |    ✅     |
 | [10250](https://www.acmicpc.net/problem/10250) |       ACM 호텔        |      Clear      |    ✅     |
 | [10430](https://www.acmicpc.net/problem/10430) |         나머지         |      Clear      |    ✅     |
