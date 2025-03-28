@@ -1,4 +1,4 @@
-#
+# Clear
 # 적록색약
 
 import sys
