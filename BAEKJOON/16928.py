@@ -1,4 +1,4 @@
-#
+# Clear
 # 뱀과 사다리 게임
 
 import sys
@@ -10,7 +10,6 @@ board = [[0] * 10 for _ in range(10)]
 visited = [[False] * 10 for _ in range(10)]
 ladder = {}
 snake = {}
-answer = 0
 
 for _ in range(N):
     start, end = map(int, input().split())
@@ -22,38 +21,53 @@ for _ in range(M):
 
 def bfs():
     # (c, r)
-    queue = deque((0, 0))
+    queue = deque()
+    queue.append([0, 0])
     visited[0][0] = True
     
     while queue:
-        c, r, count = queue.popleft()
+        c, r = queue.popleft()
+        int_location = c * 10 + r
         
-        if r < 9:
-            nr = r + 1
-            nc = c
-        elif c < 9:
-            nr = 0
-            nc = c + 1
-        else:
-            continue
-        n_count = board[c][r] + 1
-        
-        # 사다리 만날 때
-        ladder_c = nc
-        ladder_r = nr
-        while ladder.get(ladder_c * 10 + ladder_r):
-            ladder_value = ladder.get(ladder_c * 10 + ladder_r)
-            board[ladder_c][ladder_r] = n_count
-            visited[ladder_c][ladder_r] = True
+        for i in range(1, 7):
+            n_int_location = int_location + i
+            if n_int_location > 99:
+                break
             
-            ladder_c
+            nc = n_int_location // 10
+            nr = n_int_location % 10
+            n_count = board[c][r] + 1
             
-        else:
-            queue.append((ladder_c, ladder_r))
-        
-        # 뱀 만날 때
-        
-        # 안만날 때
+            if visited[nc][nr] == True:
+                continue
+            else:
+                board[nc][nr] = n_count
+                visited[nc][nr] = True
+                
+                # 사다리 만날 때
+                if n_int_location + 1 in ladder:
+                    n_int_location = ladder.get(n_int_location + 1) - 1
+                    nc = n_int_location // 10
+                    nr = n_int_location % 10
+                    
+                    if visited[nc][nr] == False:
+                        board[nc][nr] = n_count
+                        visited[nc][nr] = True
+                        queue.append([nc, nr])
+                    
+                # 뱀 만날 때
+                elif n_int_location + 1 in snake:
+                    n_int_location = snake.get(n_int_location + 1) - 1
+                    nc = n_int_location // 10
+                    nr = n_int_location % 10
+                    
+                    if visited[nc][nr] == False:
+                        board[nc][nr] = n_count
+                        visited[nc][nr] = True
+                        queue.append([nc, nr])
+                
+                else:
+                    queue.append([nc, nr])
         
 bfs()
 
