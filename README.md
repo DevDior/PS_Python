@@ -13,7 +13,7 @@
 ## Problem Solving Statistics
 
 - **해결 문제 수:** 101
-- **다시 풀어야 하는 수:** 39
+- **다시 풀어야 하는 수:** 40
 - **미해결 문제 수:** 2
 
 ---
@@ -148,6 +148,7 @@
 | [11727](https://www.acmicpc.net/problem/11727) |      2×N 타일링 2      |      Clear      |    ✅     |
 | [11728](https://www.acmicpc.net/problem/11728) |       배열 합치기        |      Clear      |    ✅     |
 | [11866](https://www.acmicpc.net/problem/11866) |      요세푸스 문제 0      |      Clear      |    ✅     |
+| [14500](https://www.acmicpc.net/problem/14500) |        테트로미노        |        V        |    ⏳     |
 | [14681](https://www.acmicpc.net/problem/14681) |       사분면 고르기       |      Clear      |    ✅     |
 | [14940](https://www.acmicpc.net/problem/14940) |       쉬운 최단거리       |      Clear      |    ✅     |
 | [15552](https://www.acmicpc.net/problem/15552) |       빠른 A+B        |      Clear      |    ✅     |
